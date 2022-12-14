@@ -1,0 +1,15 @@
+{
+    "name": "agrey/cmps",
+    "autoload": {
+        "psr-4": {
+            "Agrey\\Cmps\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Grey",
+            "email": "megagramm@gmail.com"
+        }
+    ],
+    "require": {}
+}
